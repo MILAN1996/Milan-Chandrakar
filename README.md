@@ -3,7 +3,7 @@
 	
 <h3 align="center">Data Enthusiast: En Route to becoming a Data Analyst !</h3>
 
-<img align="right" alt="analyst" width ="450" src="https://user-images.githubusercontent.com/24481386/215955493-ac905955-e7c0-41ff-9701-a0b599ef9c77.png">
+<img align="right" alt="analyst" width ="420" src="https://user-images.githubusercontent.com/24481386/215955493-ac905955-e7c0-41ff-9701-a0b599ef9c77.png">
 
 <br>
 <div align="left">
