@@ -1,13 +1,14 @@
-<h1 align="center">Namaste World</h1>
-<h2 align="center">I am Milan Chandrakar</h2>
+<h1 align="center">Namaste World
+<h2 align="center">I am Milan Chandrakar 
+	
 <h3 align="center">Data Enthusiast: En Route to becoming a Data Analyst !</h3>
 
-<img align="right" alt="analyst" width ="400" src="https://user-images.githubusercontent.com/24481386/215955493-ac905955-e7c0-41ff-9701-a0b599ef9c77.png">
+<img align="right" alt="analyst" width ="450" src="https://user-images.githubusercontent.com/24481386/215955493-ac905955-e7c0-41ff-9701-a0b599ef9c77.png">
 
-
+<br>
 <div align="left">
 
-## My Skill Set  
+## My Skill Set -
 
 <div align="left">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a> 
@@ -21,9 +22,9 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="20" /></a>  
 
 <br/>  
+<br>
 
-
-## Connect with me  
+## Connect With Me -  
 <div align="left">
 <a href="https://linkedin.com/in/milan1996" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -31,6 +32,5 @@
 <a href="https://instagram.com/milan_chandrakar_28" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-<br/>  
+
 
